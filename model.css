@@ -1,0 +1,128 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+.head {
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: white;
+    border-bottom-color: brown;
+    border-bottom-style: solid; 
+}
+.logo {
+    margin-top: -23px;
+    margin-left: 15px;
+}
+.head1 {
+    margin-top:-60px;
+    margin-left: 100px;
+}
+
+.head3 {
+    text-decoration: none;
+    margin-top: -91px;
+    margin-right: 429px;
+    color:seagreen;
+    float: right;
+    padding: 26px;
+}
+.head3:hover {
+    color: white;
+    background: gray;
+    border-bottom-color: lawngreen;
+    border-bottom-style: solid;
+}
+.head4 {
+    text-decoration: none;
+    margin-top: -91px;
+    margin-right: 210px;
+    color:seagreen;
+    float: right;
+    padding: 26px;
+}
+.head4:hover {
+    color: white;
+    background: gray;
+    border-bottom-color: lawngreen;
+    border-bottom-style: solid;
+}
+.head5 {
+    text-decoration: none;
+    margin-top: -91px;
+    margin-right: 110px;
+    color:seagreen;
+    float: right;
+    padding: 26px;
+}
+.head5:hover {
+    color: white;
+    background: gray;
+    border-bottom-color: lawngreen;
+    border-bottom-style: solid;
+}
+.head6 {
+    text-decoration: none;
+    margin-top: -91px;
+    color:seagreen;
+    float: right;
+    padding: 26px;
+}
+.head6:hover {
+    color:white;
+    background: gray;
+    border-bottom-color: lawngreen;
+    border-bottom-style: solid;
+}
+
+
+.foot {
+    height: 340px;
+    background-color: seagreen;
+    border-top-color: #123;
+    border-top-style: solid;
+    border-left-color: #123;
+    border-left-style: solid;
+    border-right-color: orangered;
+    border-right-style: solid;
+    border-bottom-color: orangered;
+    border-bottom-style: solid;
+}
+.foot2 {
+    color:white;
+    margin-left: 35px;
+}
+.foot3 {
+    color:white;
+    float:right;
+    margin-right: 55px;
+    margin-top: 0px;
+}
+
+#lool {
+    height: 30px;
+    width: 1px;
+    background-color: gray;
+    border: 1px solid gray;
+    float: right;
+    margin-top: -73px;
+    margin-right: 105px;
+    border-radius: 15px;
+}
+.garis {
+    height: 2px;
+    width: 900px;
+    background-color: grey;
+    border: 1px solid grey;
+    float: center;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+
+.content {
+    background-color: #123;
+}
